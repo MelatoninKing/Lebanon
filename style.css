@@ -13,7 +13,7 @@ p {
 }
 
 #header {
-  background: url("https://susanwingate.com/wp-content/uploads/2017/12/Lebanon-2.jpeg");
+  background: url("Lebanon-2.jpeg");
   background-size: 100%;
   background-attachment: fixed;
   column-count: 2;
@@ -65,25 +65,25 @@ article div {
 }
 
 #article1 {
-  background: url("https://farm6.staticflickr.com/5555/15040323349_bc95e76545_b.jpg");
+  background: url("15040323349_bc95e76545_b.jpg");
   background-attachment:fixed;
   background-size: 100%;
 }
 
 #article2 {
-  background: url("https://farm9.staticflickr.com/8071/8278992944_46829f796c_o.jpg");
+  background: url("8278992944_46829f796c_o.jpg");
   background-attachment:fixed;
   background-size: 100%;
 }
 
 #article3 {
-  background: url("https://farm1.staticflickr.com/456/31939877520_3206b0e43e_o.jpg");
+  background: url("/31939877520_3206b0e43e_o.jpg");
   background-attachment:fixed;
   background-size: 100%;
 }
 
 #article4 {
-  background: url("https://farm2.staticflickr.com/1688/23518707714_77546d41c6_b.jpg");
+  background: url("23518707714_77546d41c6_b.jpg");
   background-attachment:fixed;
   background-size: 100%;
 }
